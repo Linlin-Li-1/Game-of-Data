@@ -1,4 +1,4 @@
-# team_repo
+# Final Project
 
 ### Author: 
 - Linlin Li (Master's in Statistical Science program)
