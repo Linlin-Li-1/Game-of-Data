@@ -9,7 +9,7 @@ In this project, we plan to work on the COVID-19 data set.
 - Zilin Yin (Master's in Civil and Environmental Engineering program)
 
 ## To do list
-* The specific data sets you will be working with
+- The specific data sets you will be working with
 
 The dataset we are going to be working with is the MIMIC dataset, which is a relational database relating to patients staying at the intensive care units at Beth Israel Deaconess Medical Center. This dataset contains approximately 60,000 ICU admissions, 53,432 of whom are adult patients and the remains are neonatal patients ranging from June 2001 to October 2012.
 
