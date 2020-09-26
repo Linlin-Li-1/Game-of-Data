@@ -9,7 +9,7 @@ In this project, we plan to work on the COVID-19 data set.
 - Zilin Yin (Master's in Civil and Environmental Engineering program)
 
 ## To do list
-- The specific data sets you will be working with
+- **The specific data sets you will be working with**
 
 The dataset we are going to be working with is the MIMIC dataset, which is a relational database relating to patients staying at the intensive care units at Beth Israel Deaconess Medical Center. This dataset contains approximately 60,000 ICU admissions, 53,432 of whom are adult patients and the remains are neonatal patients ranging from June 2001 to October 2012.
 
@@ -39,5 +39,8 @@ The project will end up with a report describing how we solve a specific health 
       - Week 8-9 (10/09 - 10/23): Identify, learn and import necessary python packages
     
 - Roles, responsibilities and *timed milestones* for each team member
-    - Plan for *accountability* but be willing to help out team members
-    - Ask team members for help if you are overwhelmed
+    
+    - Linlin Li: Literature review
+    - Mingxuan Yang: Data analysis
+    - Yijie He: Data management 
+    - Zilin Yin: Technology stack
