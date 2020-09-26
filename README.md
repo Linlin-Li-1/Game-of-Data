@@ -1,19 +1,16 @@
 # Final Project
 
-In this project, we plan to work on the COVID-19 data set.
-
 ### Author: 
 - Linlin Li (Master's in Statistical Science program)
 - Mingxuan Yang (Master's in Statistical Science program)
 - Yijie He (Master's of Biostatistics program)
 - Zilin Yin (Master's in Civil and Environmental Engineering program)
 
-## To do list
-- **The specific data sets you will be working with**
+## Dataset
 
 The dataset we are going to be working with is the MIMIC dataset, which is a relational database relating to patients staying at the intensive care units at Beth Israel Deaconess Medical Center. This dataset contains approximately 60,000 ICU admissions, 53,432 of whom are adult patients and the remains are neonatal patients ranging from June 2001 to October 2012.
 
-- **The objective of the project and how it benefits the target consumer**
+## Objective
 
 The objective of the project is to research on the influence of demographics, vital signs, laboratory tests and medication factors on the sequential organ failure assessment score (SOFA score), which is usually applied to track a person’s organ function or rate of failure while staying at ICU. Some machine learning algorithms will be deployed to explore their relationships. The result will be beneficial for the ICU staff to reduce the physiological emergency happened on patients.
 
