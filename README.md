@@ -13,15 +13,15 @@ In this project, we plan to work on the COVID-19 data set.
 
 The dataset we are going to be working with is the MIMIC dataset, which is a relational database relating to patients staying at the intensive care units at Beth Israel Deaconess Medical Center. This dataset contains approximately 60,000 ICU admissions, 53,432 of whom are adult patients and the remains are neonatal patients ranging from June 2001 to October 2012.
 
-- The objective of the project and how it benefits the target consumer
+- **The objective of the project and how it benefits the target consumer**
 
 The objective of the project is to research on the influence of demographics, vital signs, laboratory tests and medication factors on the sequential organ failure assessment score (SOFA score), which is usually applied to track a person’s organ function or rate of failure while staying at ICU. Some machine learning algorithms will be deployed to explore their relationships. The result will be beneficial for the ICU staff to reduce the physiological emergency happened on patients.
 
-- What is the data product(s) that will be generated? For example, the project can generate one or more of the following
+- **What is the data product(s) that will be generated? For example, the project can generate one or more of the following**
 
 The project will end up with a report describing how we solve a specific health related problem (not yet undetermined) following data science workflow, as well as the result of the problem. We  also plan to illustrate our project results publicly by establishing a dashboard.
 
-- A sketch of the data science plan, which may include (if appropriate)
+- **A sketch of the data science plan, which may include (if appropriate)**
     - Data plan (Extract, Load, Transform)
     
       - Week 6 (09/25 - 10/02): Gain access to the MIMIC dataset. Download dataset and data cleaning. Extract information for the project.  
@@ -38,7 +38,7 @@ The project will end up with a report describing how we solve a specific health 
     
       - Week 8-9 (10/09 - 10/23): Identify, learn and import necessary python packages
     
-- Roles, responsibilities and *timed milestones* for each team member
+- **Roles, responsibilities and *timed milestones* for each team member**
     
     - Linlin Li: Literature review
     - Mingxuan Yang: Data analysis
