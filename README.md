@@ -24,19 +24,19 @@ The project will end up with a report describing how we solve a specific health 
 - A sketch of the data science plan, which may include (if appropriate)
     - Data plan (Extract, Load, Transform)
     
-      Week 6 (09/25 - 10/02): Gain access to the MIMIC dataset. Download dataset and data cleaning. Extract information for the project.  
-      Week 7 (10/02 - 10/09): Exploratory data analysis.  
-      Week 8 - 12 (10/09 - 11/05): Maintain database. Update database if more information is required.
+      - Week 6 (09/25 - 10/02): Gain access to the MIMIC dataset. Download dataset and data cleaning. Extract information for the project.  
+      - Week 7 (10/02 - 10/09): Exploratory data analysis.  
+      - Week 8 - 12 (10/09 - 11/05): Maintain database. Update database if more information is required.
     
     - ML plan (Model training, evaluation, selection, deployment, monitoring)
     
-      Week 6-7 (09/25 - 10/09): Literature review  
-      Week 8-9 (10/09 - 10/23): Model training, evaluation, fine-tuning and selection  
-      Week 10 and after: Deploy and monitor model performance
+      - Week 6-7 (09/25 - 10/09): Literature review  
+      - Week 8-9 (10/09 - 10/23): Model training, evaluation, fine-tuning and selection  
+      - Week 10 and after: Deploy and monitor model performance
 
     - Technology stack (databases, python packages, cloud platform)
     
-      Week 8-9 (10/09 - 10/23): Identify, learn and import necessary python packages
+      - Week 8-9 (10/09 - 10/23): Identify, learn and import necessary python packages
     
 - Roles, responsibilities and *timed milestones* for each team member
     - Plan for *accountability* but be willing to help out team members
