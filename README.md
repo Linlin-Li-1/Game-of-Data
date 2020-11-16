@@ -19,7 +19,7 @@ In China, some doctors recommend that people eat more eggs and drink more milk t
 
 - **What is the data product(s) that will be generated? For example, the project can generate one or more of the following**
 
-The project will end up with a report describing how we identify and examined the relationship between food and nutrition and COVID-19 following data science workflow, as well as the result of the problem. We also plan to illustrate our project results publicly by establishing a dashboard.
+The project will end up with a report describing how we identify and examined the relationship between food and nutrition and COVID-19 following data science workflow, as well as the result of the problem. We also plan to illustrate the visualization results publicly by establishing a dashboard.
 
 - **A sketch of the data science plan, which may include (if appropriate)**
     - Data plan (Extract, Load, Transform)
