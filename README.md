@@ -11,8 +11,11 @@
 The data sets we will use are the Covid-19 dataset and the datasets related to the population, economy, and food supply. We want to study the relationship between food and nutrition on COVID-19 susceptibility and lethality.
 
 ## Objective
+In the past few months, we have witnessed doctors, nurses, medical staff, and thousands of medical staff putting their lives on the front line to save infected patients. As the battle against COVID-19 continues, we should all ask ourselves what should we do to help? What can we do to protect our loved ones, those who sacrificed for us, and ourselves from this pandemic? One possible way to protect the health of our family and ourselves is to adapt to healthy eating habits.
 
-The objective of the project is to research on the influence of demographics, vital signs, laboratory tests and medication factors on the sequential organ failure assessment score (SOFA score), which is usually applied to track a person’s organ function or rate of failure while staying at ICU. Some machine learning algorithms will be deployed to explore their relationships. The result will be beneficial for the ICU staff to reduce the physiological emergency happened on patients.
+The Center for Nutrition Policy and Promotion of the United States Department of Agriculture recommends a very simple daily dietary intake: 30% grains, 40% vegetables, 10% fruits, and 20% protein, but do we really follow the recommendations of these food departments to eat a healthy diet? Way to eat? balance? Do we need to adjust our eating habits based on the diet patterns of countries with low COVID infection rates?
+
+In China, some doctors recommend that people eat more eggs and drink more milk to improve their immunity. We would like to use statistical analysis to study the relationship between eggs and other foods and the infection rate and fatality rate of COVID-19, and analyze whether these suggestions may be effective. The results will be beneficial to all people who suffer from this pandemic and hope to protect themselves.
 
 - **What is the data product(s) that will be generated? For example, the project can generate one or more of the following**
 
