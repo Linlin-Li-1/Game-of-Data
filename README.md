@@ -8,7 +8,7 @@
 
 ## Dataset
 
-The dataset we are going to be working with is the MIMIC dataset, which is a relational database relating to patients staying at the intensive care units at Beth Israel Deaconess Medical Center. This dataset contains approximately 60,000 ICU admissions, 53,432 of whom are adult patients and the remains are neonatal patients ranging from June 2001 to October 2012.
+The data sets we will use are the Covid-19 dataset and the datasets related to the population, economy, and food supply. We want to study the relationship between food and nutrition on COVID-19 susceptibility and lethality.
 
 ## Objective
 
@@ -16,7 +16,7 @@ The objective of the project is to research on the influence of demographics, vi
 
 - **What is the data product(s) that will be generated? For example, the project can generate one or more of the following**
 
-The project will end up with a report describing how we solve a specific health related problem (not yet undetermined) following data science workflow, as well as the result of the problem. We  also plan to illustrate our project results publicly by establishing a dashboard.
+The project will end up with a report describing how we solve a specific health related problem following data science workflow, as well as the result of the problem. We also plan to illustrate our project results publicly by establishing a dashboard.
 
 - **A sketch of the data science plan, which may include (if appropriate)**
     - Data plan (Extract, Load, Transform)
@@ -37,7 +37,7 @@ The project will end up with a report describing how we solve a specific health 
     
 - **Roles, responsibilities and *timed milestones* for each team member**
     
-    - Linlin Li: Literature review
-    - Mingxuan Yang: Data analysis
-    - Yijie He: Data management 
-    - Zilin Yin: Technology stack
+    - Linlin Li: Literature review, Dashboard
+    - Mingxuan Yang: Data analysis, Dashboard
+    - Yijie He: Data management, Machine Learning Models
+    - Zilin Yin: Machine Learning Models
