@@ -17,8 +17,6 @@ The Center for Nutrition Policy and Promotion (CNPP) recommends a very simple da
 
 In China, some doctors recommend that people eat more eggs and drink more milk to improve their immunity. We would like to use statistical analysis to study the relationship between eggs and other foods and the infection rate and fatality rate of COVID-19, and analyze whether these suggestions may be effective. The results will be beneficial to all people who suffer from this pandemic and hope to protect themselves.
 
-- **What is the data product(s) that will be generated? For example, the project can generate one or more of the following**
-
 The project will end up with a report describing how we identify and examined the relationship between food and nutrition and COVID-19 following data science workflow, as well as the result of the problem. We also plan to illustrate the visualization results publicly by establishing a dashboard.
 
 - **A sketch of the data science plan, which may include (if appropriate)**
