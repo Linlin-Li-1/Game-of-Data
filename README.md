@@ -42,3 +42,7 @@ The project will end up with a report describing how we identify and examined th
     - Mingxuan Yang: Data analysis, Dashboard
     - Yijie He: Data management, Machine Learning Models
     - Zilin Yin: Machine Learning Models
+    
+## Instruction
+- "covid_food.ipynb" contains the complete code for the machine learning topic: relationship between food intake and recovery rate from COVID-19 of our project.
+- "covid-19.py" contains the complete code for the 
