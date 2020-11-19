@@ -8,7 +8,7 @@
 
 ## Dataset
 
-The data sets we will use are the COVID-19 dataset and the datasets related to the population, economy, and food supply. We want to study the relationship between food and nutrition on COVID-19 susceptibility and lethality.
+The data sets we will use are the COVID-19 dataset and the datasets related to the population, economy, and food supply. We want to study the relationship between food and nutrition on COVID-19 susceptibility and lethality. All of the data can be found in the "Data" folder.
 
 ## Objective
 In the past few months, we have witnessed doctors, nurses, and thousands of medical staff putting their lives on the front line to save infected patients. As the battle against COVID-19 continues, we should all ask ourselves what should we do to help? What can we do to protect our loved ones, those who sacrificed for us, and ourselves from this pandemic? One possible way to protect the health of our family and ourselves is to adapt to healthy eating habits.
