@@ -6,6 +6,18 @@
 - Yijie He (Master's of Biostatistics program)
 - Zilin Yin (Master's in Civil and Environmental Engineering program)
 
+## Techonology
+
+- Plotly
+- Streamlit
+- Flourish
+- Heroku
+- SQL (to extract data from AWS)
+- Random Forest Regression
+- Elastic Net Regression
+- Gradient Boosting Regression
+- Grid Search Cross Validation Parameter Tuning
+
 ## Dataset
 
 The data sets we will use are the COVID-19 dataset and the datasets related to the population, economy, and food supply. We want to study the relationship between food and nutrition on COVID-19 susceptibility and lethality. All of the data can be found in the "Data" folder.
@@ -22,7 +34,7 @@ The project will end up with a report describing how we identify and examined th
 - **A sketch of the data science plan, which may include (if appropriate)**
     - Data plan (Extract, Load, Transform)
     
-      - Week 6 (09/25 - 10/02): Gain access to the MIMIC dataset. Download dataset and data cleaning. Extract information for the project.  
+      - Week 6 (09/25 - 10/02): Gain access to the COVID-19 dataset. Download dataset and data cleaning. Extract information for the project.  
       - Week 7 (10/02 - 10/09): Exploratory data analysis.  
       - Week 8 - 12 (10/09 - 11/05): Maintain database. Update database if more information is required.
     
