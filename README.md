@@ -56,7 +56,7 @@ The project will end up with a report describing how we identify and examined th
     - Zilin Yin: Machine Learning Models
     
 ## Instruction
-- "covid-19.py" contains the complete code for the streamlit dashboard.
+- "covid-19.py" contains the complete code for the streamlit dashboard. The resulting dashboard can be viewed [here](https://covid-19-823.herokuapp.com/).
 - "20countries_totals_RosesPlot.ipynb" contains the complete code for the plotting of relationship between economy and COVID-19.
 - "covid_food.ipynd" contains intermediate code for ML models.
 - "bios823-final-ml.ipynb" contains the complete code for the machine learning topic: relationship between food intake and recovery rate from COVID-19 of our project.
