@@ -60,6 +60,7 @@ The project will end up with a report describing how we identify and examined th
 - "20countries_totals_RosesPlot.ipynb" contains the complete code for the plotting of relationship between economy and COVID-19.
 - "covid_food.ipynd" contains intermediate code for ML models.
 - "bios823-final-ml.ipynb" contains the complete code for the machine learning topic: relationship between food intake and recovery rate from COVID-19 of our project.
+- "bios823_final_report" contains the pdf report of the project.
 
 
 Be sure to put the data in the "Data" folder at the right place to run the above files.
